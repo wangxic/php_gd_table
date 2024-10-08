@@ -1,3 +1,5 @@
+<?php
+
 class GdTableServer
 {
 
@@ -12,6 +14,7 @@ class GdTableServer
         'table_explain_height' => 30, //汇总行高
         'table_explain_font_size' => 16, //汇总字体
         'file_name' => '', //文件名
+        'file_path' => '' //文件保存路径 **必填**
     ];
     /**
      * 设置配置
