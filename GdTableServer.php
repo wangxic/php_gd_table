@@ -1,5 +1,5 @@
 <?php
-
+namespace server;
 class GdTableServer
 {
 
